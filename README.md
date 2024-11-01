@@ -109,7 +109,7 @@ In the second video,you can see the balancing robot in action. It responds to an
 
 ## List of Software Tools
 
-| Software             | Description                                                                                              |
+| Software             |  Description                                                                                              |
 |----------------------|----------------------------------------------------------------------------------------------------------|
 | SolidWorks 2023      | I used SolidWorks 2023 to design the 3D printed parts, model various components, and utilize its toolbox for bolts, nuts, etc. |
 | Wokwi                | I used Wokwi to create and simulate electronic schematics and code, with the added benefit of simulating without needing physical connections. |
